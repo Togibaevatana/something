@@ -1,0 +1,16 @@
+.blog-footer{
+display: flex;
+align-items: center;
+margin-top: 60px;
+flex-direction: column;
+justify-content: center;
+
+}
+.old{
+display: flex;
+margin-left: 10px;
+
+}
+
+
+
